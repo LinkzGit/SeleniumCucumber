@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="build/resources/test" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+			<attribute name="resource" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="build/classes/java/test" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="build/resources/main" path="src/main/resources">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+			<attribute name="resource" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="build/classes/java/main" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="build/classes/java/test" path="build/generated/sources/annotationProcessor/java/test">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="build/classes/java/main" path="build/generated/sources/annotationProcessor/java/main">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.2/a231e0d844d2721b0fa1b238006d15c6ded6842a/apiguardian-api-1.1.2.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.2/e0787a997746ac32639e0bf3cb27af8dce8a3428/apiguardian-api-1.1.2-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-api/1.28.0/ebdea4fbe23c3929f1702b176d2cd63ac6288f0/opentelemetry-api-1.28.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-api/1.28.0/4e210c7d914bbd1d38f16331124d8b5c31bd37b3/opentelemetry-api-1.28.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-extension-incubator/1.28.0-alpha/ad51d2ab228f522448afb90503ce005ce4a4f2ac/opentelemetry-extension-incubator-1.28.0-alpha.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-extension-incubator/1.28.0-alpha/f16e1d927188355797a7eb0516b3dc41710f470e/opentelemetry-extension-incubator-1.28.0-alpha-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.brotli/dec/0.1.2/c26a897ae0d524809eef1c786cc6183b4ddcc3b/dec-0.1.2.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.brotli/dec/0.1.2/c04c22a0f5a84e985bd04d2129638e590c1e5edc/dec-0.1.2-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-safari-driver/4.15.0/85aa017358269a66c9a4e97164c1c908a7af2bbe/selenium-safari-driver-4.15.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-safari-driver/4.15.0/2a39bda6ff9dcd1a940b5ce13a40c4e3d84727bb/selenium-safari-driver-4.15.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.28.0/582ce034be1262aac6d77b92ec2d6cf4884cee4d/opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.28.0/536102e3375e249f6455fa9d00e81124af47c6db/opentelemetry-sdk-extension-autoconfigure-spi-1.28.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.13.0/b7263237aa89c1f99b327197c41d0669707a462e/commons-lang3-3.13.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.13.0/c035e3c80a649b8a1b2e533ff69317304accb247/commons-lang3-3.13.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.github.docker-java/docker-java-transport/3.3.4/87f856e47c9f8d416518b18f88c15cad74cc2cae/docker-java-transport-3.3.4.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.github.docker-java/docker-java-transport/3.3.4/29d95d8335749cc0087abe630fc387445159374e/docker-java-transport-3.3.4-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/5.13.0/1200e7ebeedbe0d10062093f32925a912020e747/jna-5.13.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/5.13.0/e55ddc56d092866b6d59822f825c253960a6e504/jna-5.13.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-os/4.15.0/2cc53549896b649da1b32060ea422f660f1e5ba0/selenium-os-4.15.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-os/4.15.0/d2acd1eb13315e14e58d69464e354984c37da332/selenium-os-4.15.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/b19b5927c2c25b6c70f093767041e641ae0b1b35/jsr305-3.0.2-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.github.bonigarcia/webdrivermanager/5.6.2/61640f4c4659ef16b18a9a911a2ad6921abc148a/webdrivermanager-5.6.2.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.github.bonigarcia/webdrivermanager/5.6.2/7e3b5a3e879ecb196896cd514b9ca61c5f8c0b17/webdrivermanager-5.6.2-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-firefox-driver/4.15.0/2bf6b0135ec6693ede01c0b50fc2edbe2c2c15c0/selenium-firefox-driver-4.15.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-firefox-driver/4.15.0/c177daa6e76bb5f0bf05406961a21a4e1fca33f/selenium-firefox-driver-4.15.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.28.0/6db66c77ca29a8d05227324a8392b736744bbe3f/opentelemetry-sdk-extension-autoconfigure-1.28.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.28.0/91de64b0c238da5368f2ca06fc4e7f1ed31ccfc/opentelemetry-sdk-extension-autoconfigure-1.28.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/html-formatter/20.4.0/1f8e4ed1dc5699b4418710e60b006d38f815b02b/html-formatter-20.4.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/html-formatter/20.4.0/a3168e495c9635fef9afe71392739032b43da899/html-formatter-20.4.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/4.15.0/eb5740c028582b3308b5a2254d6ce3d5417a4b8b/selenium-api-4.15.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/4.15.0/9858bd221dcb9f36ce4d0ccd5652a93c071e842b/selenium-api-4.15.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-semconv/1.28.0-alpha/97336840db7cb0ef7e5d292f7cec5bdb385cc370/opentelemetry-semconv-1.28.0-alpha.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-semconv/1.28.0-alpha/72dbaf58ff2d4930ad87ae893cdd084680b752e3/opentelemetry-semconv-1.28.0-alpha-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.github.docker-java/docker-java-transport-httpclient5/3.3.4/2d4af09c2db7b040228f28513ebf80f4c322a00a/docker-java-transport-httpclient5-3.3.4.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.github.docker-java/docker-java-transport-httpclient5/3.3.4/83c975834cfd3ef0638decdc7aefb7df05a1f375/docker-java-transport-httpclient5-3.3.4-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.10.3/aae92628b5447fa25af79871ca98668da6edd439/jackson-databind-2.10.3.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.10.3/db734f2f42a95d2668b9f9de58d25cfc064e6e4a/jackson-databind-2.10.3-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v119/4.15.0/cb3a2f4285fbb6653d5c735fcb30fad022543906/selenium-devtools-v119-4.15.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v119/4.15.0/f44a453713bb9ca2ebf864793df54a6ad290d8ec/selenium-devtools-v119-4.15.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/4.15.0/6df1fede9d54b41bc821ef25d95add098f761358/selenium-remote-driver-4.15.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/4.15.0/e1ec2af3cfb17e18fe2d30539a85803444178bb0/selenium-remote-driver-4.15.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.9/7cf2726fdcfbc8610f9a71fb3ed639871f315340/slf4j-api-2.0.9.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.9/97e46b94d70f47892145e09d685461245584d596/slf4j-api-2.0.9-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/junit-xml-formatter/0.2.0/b5602d3fa7a1bdc1531ed92e4c02886708b98788/junit-xml-formatter-0.2.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/junit-xml-formatter/0.2.0/715aaba8a96b5ce7ca95bf0e7e764810dde6f5be/junit-xml-formatter-0.2.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-java/4.15.0/18cef0adbc08d152da07b234a04f6e8240ce215f/selenium-java-4.15.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-java/4.15.0/1ecb37e0b737a743a5e8860df99f402f508fd2f6/selenium-java-4.15.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.13.0/8bb2bc9b4df17e2411533a0708a69f983bf5e83b/commons-io-2.13.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.13.0/59459135ff61c3ce83dc2cd3bc120c8bbefb1f48/commons-io-2.13.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/4.15.0/23d98fd0b664e12e15b251bff5ac232c59658996/selenium-support-4.15.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/4.15.0/c173e1ccad901d6ee2c39bc57d43a54762f94885/selenium-support-4.15.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.18.0/89b684257096f548fa39a7df9fdaa409d4d4df91/error_prone_annotations-2.18.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.18.0/8781f46ef842929cf22e83273ef0d2091b96845f/error_prone_annotations-2.18.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.client5/httpclient5/5.2.1/c900514d3446d9ce5d9dbd90c21192048125440/httpclient5-5.2.1.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.client5/httpclient5/5.2.1/6f7ee311b403e9ff5d04e9128ea6a0fca4eb0a43/httpclient5-5.2.1-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.24.0/b4b1b5a3d9573b2970fddab236102c0a4d27d35e/commons-compress-1.24.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.24.0/a369c080d269f41c002855a37042b5f79f65fbfe/commons-compress-1.24.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-logging/1.28.0/e6721fd80fe703a9bbaf8fcdf269aa878a2fa963/opentelemetry-exporter-logging-1.28.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-logging/1.28.0/dc4ed106c44576753b972b539d6ec073455fbf72/opentelemetry-exporter-logging-1.28.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-http/4.15.0/1f1edac9bcc0b190f66f148932250f144985d12c/selenium-http-4.15.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-http/4.15.0/27453129f725ccde43d664f8aa0ef5c2b9a7c185/selenium-http-4.15.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chrome-driver/4.15.0/da813844d9aef10cea497250c7cdf3169fb93302/selenium-chrome-driver-4.15.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chrome-driver/4.15.0/5026f302d32b7bdb2a6abadf3b46ea0070468bca/selenium-chrome-driver-4.15.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-gherkin/7.14.1/5c0e641869e3717d540fec8029814a4d8c6f45be/cucumber-gherkin-7.14.1.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-gherkin/7.14.1/c630ce63aed8fcecc71a88d6eddb39ad3b3cc500/cucumber-gherkin-7.14.1-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-java/7.14.1/8ba9ba7738ff337d7992104add331f7286637810/cucumber-java-7.14.1.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-java/7.14.1/cc7eedd940819dcc6702ddc0d89a4f23c40b7fa8/cucumber-java-7.14.1-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-gherkin-messages/7.14.1/c854efb0318fe767b28a7ce82024ff6c3278dba4/cucumber-gherkin-messages-7.14.1.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-gherkin-messages/7.14.1/3e033a41d3469f2ab10ec8ed9aafa2f7e02dc521/cucumber-gherkin-messages-7.14.1-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-manager/4.15.0/82ffe2f568e5d1b4c3089079d419a393c9702fd2/selenium-manager-4.15.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-manager/4.15.0/b9121f638f0b1404c1583000c469fbd6115ad704/selenium-manager-4.15.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/gherkin/26.2.0/306fbc8c165ad21c8a7c6519865c663bcfadbcc5/gherkin-26.2.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/gherkin/26.2.0/79ba90ad42dede0a4e9100504b1cc2a31db62aa/gherkin-26.2.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.14.5/28a424c0c4f362568e904d992c239c996cf7adc7/byte-buddy-1.14.5.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.14.5/2ffbe5b4f4fe115ca0aa000e9de5c13eb6fd924c/byte-buddy-1.14.5-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.core5/httpcore5/5.2/ab7d251b8dfa3f2878f1eefbcca0e1fc0ebeba27/httpcore5-5.2.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.core5/httpcore5/5.2/9c701e330a33690077c7788251f9b061ee7cec28/httpcore5-5.2-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-api-events/1.28.0-alpha/c663155d53746308c8d2e37121b990c3a8de8d58/opentelemetry-api-events-1.28.0-alpha.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-api-events/1.28.0-alpha/79fb7c2d25d9751a98a4216bec99fc77ac49b19a/opentelemetry-api-events-1.28.0-alpha-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.10.1/b3add478d4382b78ea20b1671390a858002feb6c/gson-2.10.1.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.10.1/982a90132e942f302e6fe79d6e78c4bc2e998569/gson-2.10.1-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1d064e61aad6c51cc77f9b59dc2cccc78e792f5a/failureaccess-1.0.1-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v85/4.15.0/2b8f4e092b072054d5da120d0c3e8284672e2331/selenium-devtools-v85-4.15.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v85/4.15.0/b907c6cc1ab7061319a7118636dce72ecd676300/selenium-devtools-v85-4.15.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-expressions/17.0.1/14c630335855061e4e425b940405c60cf805f64e/cucumber-expressions-17.0.1.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-expressions/17.0.1/1816abb4eb70930941e951f6e3d855cf3a0b0e6d/cucumber-expressions-17.0.1-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chromium-driver/4.15.0/582674ef470d5d33a828982b116c948ab3a3d076/selenium-chromium-driver-4.15.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chromium-driver/4.15.0/50a9889df2f629ed04d75718aa3a1127a555293d/selenium-chromium-driver-4.15.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/ci-environment/10.0.0/eb6836690eace2b36a2ed8ed41723e02eca96038/ci-environment-10.0.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/ci-environment/10.0.0/1e5c39d26d7643f0c2426d58b364c00a5fb04c73/ci-environment-10.0.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-core/7.14.1/20cef0eef63efa5a06bc6af68549dc04251bad46/cucumber-core-7.14.1.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-core/7.14.1/2e7aa59bcee91314489b50f07a71343c04269ad7/cucumber-core-7.14.1-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/messages/22.0.0/5e44123c146b13987a58a7dcff6a92b5cb64b53a/messages-22.0.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/messages/22.0.0/56256e614b555a6a01a0399e558f8e3009a3fb86/messages-22.0.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcutil-jdk18on/1.76/8c7594e651a278bcde18e038d8ab55b1f97f4d31/bcutil-jdk18on-1.76.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcutil-jdk18on/1.76/836bb2c42f10b29127b470ebe5c648927dd4ddc6/bcutil-jdk18on-1.76-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/datatable/7.14.1/c83106fa956d1ac11000edc684ce4ba9a99bc33d/datatable-7.14.1.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/datatable/7.14.1/a36dd28668dd6c4a26a7de5646ccc3d08a5114aa/datatable-7.14.1-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service-annotations/1.1.1/da12a15cd058ba90a0ff55357fb521161af4736d/auto-service-annotations-1.1.1.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service-annotations/1.1.1/b855be4f39e0fe5bb27dd137fd37dd4c4e2c2f5a/auto-service-annotations-1.1.1-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/32.1.2-jre/5e64ec7e056456bef3a4bc4c6fdaef71e8ab6318/guava-32.1.2-jre.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/32.1.2-jre/e1911d4544f426600132fbd450a7ccab8a3ce8dc/guava-32.1.2-jre-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-context/1.28.0/468c460d80c5a6e0fdddd3c1a83148b316571c22/opentelemetry-context-1.28.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-context/1.28.0/bc04f80926f252a314c3320142ff944d4e4d0fc7/opentelemetry-context-1.28.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.github.docker-java/docker-java-core/3.3.4/4e24c61232e3a7d16af8cb664870ca6a9cb96ae0/docker-java-core-3.3.4.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.github.docker-java/docker-java-core/3.3.4/57486928122655131c687a7efea87c720d0e2696/docker-java-core-3.3.4-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-json/4.15.0/4eb0db429a378160fc0158d80bdec3a38e951d22/selenium-json-4.15.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-json/4.15.0/3d5092e2f41cf2eef0d053ae92d680fed9c18660/selenium-json-4.15.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/docstring/7.14.1/1d9c2453a94401bfca0743aaacd4d15f7b5891af/docstring-7.14.1.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/docstring/7.14.1/77dcaf610d3974556548a8ca2166ab25c584d57b/docstring-7.14.1-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.10.3/f7ee7b55c7d292ac72fbaa7648c089f069c938d2/jackson-core-2.10.3.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.10.3/5b24f64c1a3351a550651b072887ac56a0af120c/jackson-core-2.10.3-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-plugin/7.14.1/bccf5aee8ea95d589c08a90eb2a29ce7252905c9/cucumber-plugin-7.14.1.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-plugin/7.14.1/a1721a4a89e9ac07658ddb447d0aae078620f45c/cucumber-plugin-7.14.1-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk18on/1.76/10c9cf5c1b4d64abeda28ee32fbade3b74373622/bcpkix-jdk18on-1.76.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk18on/1.76/e5700c1de407652c1af5961ac8a04fab02eda365/bcpkix-jdk18on-1.76-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.33.0/de2b60b62da487644fc11f734e73c8b0b431238f/checker-qual-3.33.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.33.0/ee4ecf6c55e3f2b05b839aa05c70f1298437ebe9/checker-qual-3.33.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.10.3/f63b3b1da563767d04d2e4d3fc1ae0cdeffebe7/jackson-annotations-2.10.3.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.10.3/a52bf9c42cb6a029577d0d701785a07554675713/jackson-annotations-2.10.3-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk18on/1.76/3a785d0b41806865ad7e311162bfa3fa60b3965b/bcprov-jdk18on-1.76.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk18on/1.76/9e00748625819d7e3cc1447366dfa76f0b354a2d/bcprov-jdk18on-1.76-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v118/4.15.0/5f1114a500f9625437a4259e56fbdcd6f8ad56a7/selenium-devtools-v118-4.15.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v118/4.15.0/2ad237e88a26556617c35b8d21e108b00d7d979/selenium-devtools-v118-4.15.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-edge-driver/4.15.0/79fcf990272f82f291c40db6c7bd6c8c2aca569f/selenium-edge-driver-4.15.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-edge-driver/4.15.0/39f75c67113ee5deffb7779d578512ac923a87f2/selenium-edge-driver-4.15.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-metrics/1.28.0/4d955fb6c2ec89b4f55d88d7aed4dd9c36809235/opentelemetry-sdk-metrics-1.28.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-metrics/1.28.0/458fae996a2fa73a1260fed221c65481f0cce33a/opentelemetry-sdk-metrics-1.28.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.core5/httpcore5-h2/5.2/698bd8c759ccc7fd7398f3179ff45d0e5a7ccc16/httpcore5-h2-5.2.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.core5/httpcore5-h2/5.2/87e5eed16e0cdf7ccb8e434b6de7bca243d858d3/httpcore5-h2-5.2-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v117/4.15.0/f7dd48dc09f25f3e05540edde5cac250a6b7e90f/selenium-devtools-v117-4.15.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v117/4.15.0/86ba795581856b8712165f9b635150d4ea72598d/selenium-devtools-v117-4.15.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk/1.28.0/a1ca3938a03e5bb0749dc92da91edf76f6ee3b7f/opentelemetry-sdk-1.28.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk/1.28.0/7ea4315fe10cbd52f896d61df3b307607d3aa95d/opentelemetry-sdk-1.28.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.github.docker-java/docker-java/3.3.4/4ec475e70b34cef5b683e452e7f58e1a344ec100/docker-java-3.3.4.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.github.docker-java/docker-java/3.3.4/55be89693f9921a34055368dd97af5bafe847c93/docker-java-3.3.4-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-exec/1.3/8dfb9facd0830a27b1b5f29f84593f0aeee7773b/commons-exec-1.3.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-exec/1.3/efd2543e352e55ce5a685eed6db8af028b737905/commons-exec-1.3-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/2.8/c85270e307e7b822f1086b93689124b89768e273/j2objc-annotations-2.8.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/2.8/74fb66e276fc42784d884d51f841e35232bc90de/j2objc-annotations-2.8-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/tag-expressions/6.0.0/8c64b7f2caf44ae014a2ed3a030c7dc91154641f/tag-expressions-6.0.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/tag-expressions/6.0.0/b0a777cb7f2e5ff561ae7458499787f06e94b3c2/tag-expressions-6.0.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.github.docker-java/docker-java-api/3.3.4/f5f58affdfb9479519457a362c4f2d9ebbe263b3/docker-java-api-3.3.4.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.github.docker-java/docker-java-api/3.3.4/637b947e97bbe4abf665b01dced9299aea41920e/docker-java-api-3.3.4-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-common/1.28.0/b25e52ef6829bb41db3227d8fcc206009b018f40/opentelemetry-sdk-common-1.28.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-common/1.28.0/a681d6c1af89d1111083d15c3178f78084c519ce/opentelemetry-sdk-common-1.28.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.30/cd92524ea19d27e5b94ecd251e1af729cffdfe15/jcl-over-slf4j-1.7.30.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.30/f2442e369a190089a2774920b5e73a4d4c1ef793/jcl-over-slf4j-1.7.30-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/dev.failsafe/failsafe/3.3.2/738a986f1f0e4b6c6a49d351dddc772d1378c5a8/failsafe-3.3.2.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/dev.failsafe/failsafe/3.3.2/570027ca5c2f3861c4270e5460001b7189a12034/failsafe-3.3.2-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-ie-driver/4.15.0/c1701fd6861b8f304c3dd257b78e71f6e8988cff/selenium-ie-driver-4.15.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-ie-driver/4.15.0/b70ff535dde212e2a3f14df0273a4807c99d3d39/selenium-ie-driver-4.15.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-trace/1.28.0/18797986d45940d873430023280211d6990680c/opentelemetry-sdk-trace-1.28.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-trace/1.28.0/5de7757f8ff229e3078a164d60fa6b62cb0b0161/opentelemetry-sdk-trace-1.28.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-logs/1.28.0/adcd0bc96bc77152a15b3b8890bd8a04dd0bf36b/opentelemetry-sdk-logs-1.28.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-logs/1.28.0/a071040895caae5c1c6b9d55f93ae1035d074eb0/opentelemetry-sdk-logs-1.28.0-sources.jar">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.9.1/3145f821b5cd10abcdc5f925baa5fffa6f1b628f/junit-platform-commons-1.9.1.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.9.1/5d2f1078b36f69b0cbacc1efdbf073517c0c7d33/junit-platform-commons-1.9.1-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.testng/testng/7.8.0/90ff6902a350432ce23ef209b2f109bcf587069c/testng-7.8.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.testng/testng/7.8.0/78aa9832674fd6a21375e8a9ee82fbbe9ffcde3a/testng-7.8.0-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.webjars/jquery/3.6.1/d08df6250157cd2db3d9b01b11b76e9b7225083a/jquery-3.6.1.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.webjars/jquery/3.6.1/ce7c1ffa7f383388a0969f0a227a30c598e516cb/jquery-3.6.1-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.9.1/1bf771097bde296c3ab174861954e8aafaaf2e94/junit-jupiter-engine-5.9.1.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.9.1/bc082b8e8a1f40d6846fccb59867c6524bf08155/junit-jupiter-engine-5.9.1-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.9.1/83591e5089d6cea5f324aa3ecca9b19d5a275803/junit-platform-engine-1.9.1.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.9.1/bda902e43fe1f62674224452defd31f4c251e29d/junit-platform-engine-1.9.1-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter/5.9.1/9274d3757e224bc02eae367bd481062a263c150b/junit-jupiter-5.9.1.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter/5.9.1/5fd01c33132462aab3905cb74bd1097a713ab91a/junit-jupiter-5.9.1-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.9.1/7bb53fbc0173e9f6a9d21d58297af94b1f2f9ce1/junit-jupiter-api-5.9.1.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.9.1/ba8516b330a32b4957cdc6ad0cd1a594ec154fd2/junit-jupiter-api-5.9.1-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/28c11eb91f9b6d8e200631d46e20a7f407f2a046/opentest4j-1.2.0.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/41d55b3c2254de9837b4ec8923cbd371b8a7eab5/opentest4j-1.2.0-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/junit/junit/4.13.2/8ac9e16d933b6fb43bc7f576336b8f4d7eb5ba12/junit-4.13.2.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/junit/junit/4.13.2/33987872a811fe4d4001ed494b07854822257f42/junit-4.13.2-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-junit/7.14.1/9664650c22d7b8656a230c728271e628ec712da9/cucumber-junit-7.14.1.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-junit/7.14.1/91276649bced39c1371c456c90caa64c72e586be/cucumber-junit-7.14.1-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.beust/jcommander/1.82/a7c5fef184d238065de38f81bbc6ee50cca2e21/jcommander-1.82.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/com.beust/jcommander/1.82/5cf95a2e18d79d404fd81263db36862287e736cc/jcommander-1.82-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-params/5.9.1/ffcd1013edaeee112be11fcddeb38882d79238de/junit-jupiter-params-5.9.1.jar" sourcepath="C:/Users/Zelda/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-params/5.9.1/f48e6a3bc9ac5acdde88951f83beb44adc78c8c5/junit-jupiter-params-5.9.1-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

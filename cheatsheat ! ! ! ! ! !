@@ -1,0 +1,43 @@
+#  
+    public void Ejemplulis() {
+        String palabraEsperada = "Pepe";
+        String palabraEncontrada = "Papa";
+
+        // Soft Assertions: No detienen la ejecución al fallar. Ideal para verificar
+        // muchas cosas pequeñas a la vez.
+        soft.assertEquals(palabraEsperada, palabraEncontrada);
+        soft.assertTrue(palabraEncontrada.contains(palabraEsperada));
+        soft.assertNotEquals(palabraEncontrada, palabraEsperada);
+
+        soft.assertAll();
+
+
+
+// 1. assertEquals
+
+// Verifica que dos valores sean iguales.
+
+Assert.assertEquals(actualTitle, expectedTitle, "El título de la página no es el esperado.");
+
+
+// 2. assertNotEquals
+
+// Verifica que dos valores no sean iguales.
+
+Assert.assertNotEquals(actualTitle, incorrectTitle, "El título de la página no debería ser este.");
+
+
+// 3. assertTrue
+
+// Verifica que una condición sea verdadera.
+
+Assert.assertTrue(isElementPresent, "El elemento debería estar presente.");
+
+
+// 4. assertFalse
+
+// Verifica que una condición sea falsa.
+
+Assert.assertFalse(isElementPresent, "El elemento no debería estar presente.");
+
+#
